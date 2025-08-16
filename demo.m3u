@@ -1,422 +1,121 @@
-#EXTM3U url-tvg="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 group-title="央视频道",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2 财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3 综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4 中文国际
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6 电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7 国防军事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8 电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9 纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10 科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11 戏曲
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12 社会与法
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13 新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14 少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15 音乐
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16 奥林匹克
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17 农业农村
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="央视频道",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="央视频道",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-#EXTINF:-1 group-title="地方频道",重温经典
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="地方频道",澳門蓮花
-http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-#EXTINF:-1 group-title="地方频道",南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 group-title="数字频道",黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="数字频道",黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="超级电影" group-title="数字频道",超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="超级综艺" group-title="数字频道",超级综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-name="超级视剧" group-title="数字频道",超级视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-name="超级体育" group-title="数字频道",超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-name="东北热剧" group-title="数字频道",东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-name="欢乐剧场" group-title="数字频道",欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-name="金牌综艺" group-title="数字频道",金牌综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="数字频道",睛彩青少
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 group-title="数字频道",睛彩竞技
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 group-title="数字频道",睛彩篮球
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 group-title="数字频道",睛彩广场舞
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 group-title="数字频道",爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="数字频道",动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="数字频道",古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="数字频道",海外剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="数字频道",家庭剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="数字频道",惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="数字频道",精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="数字频道",精品纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="数字频道",精品体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="数字频道",潮妈辣婆
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 group-title="数字频道",军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="数字频道",军事评论
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="数字频道",农业致富
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 group-title="数字频道",武搏世界
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="数字频道",炫舞未来
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 group-title="数字频道",中国功夫
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="数字频道",精品萌宠
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 group-title="地方频道",龙江农科
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 group-title="地方频道",龙江少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 group-title="地方频道",龙江文体
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 group-title="地方频道",龙江新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 group-title="地方频道",龙江影视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 group-title="地方频道",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="国际",BBC
+#EXTINF:-1 tvg-id="47213" tvg-name="CA CNN " group-title="国际",CNN
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/47213
+#EXTINF:-1 tvg-id="53757" tvg-name="UK: BBC NEWS" group-title="国际",BBC 
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="国际",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",AlJazeera
+#EXTINF:-1 tvg-id="121139" tvg-name="US abc 7 (WABC) New York" group-title="国际",ABC
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121139
+#EXTINF:-1 tvg-id="160711" tvg-name="US Al Jazeera" group-title="国际",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际",CBS News
-http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title="国际",Global Halifax News
-http://fortv.cc:8080/q8KuDU/354945/57434
-#EXTINF:-1 group-title="国际",GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="国际",France 24
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="国际",RTE News
-http://fortv.cc:8080/q8KuDU/354945/79108
-#EXTINF:-1 group-title="国际",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",TalkTV
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-#EXTINF:-1 group-title="国际",CNBC
-http://fl5.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="国际",FOX5
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN News
-http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="国际",LiveNow from Fox
-https://livetv-fa.tubi.video/fox-live-now/index.m3u8
-#EXTINF:-1 group-title="国际",ABC Australia
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 group-title="国际",NewsNation
-http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title="国际",NHK World
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-#EXTINF:-1 group-title="国际",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="国际",FOX Soul
-http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 group-title="国际",Wion News
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="国际",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title="国际",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Start TV
-http://fl3.moveonjoy.com/Start_Tv/index.m3u8
-#EXTINF:-1 group-title="国际",TCM
-http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="国际",FYI
-http://fl3.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 group-title="国际",Travel XP
-https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际",Xplore TV
-https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
-#EXTINF:-1 group-title="国际",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Cartoon Network
-http://fortv.cc:8080/q8KuDU/354945/53719
-#EXTINF:-1 group-title="国际",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",Aspire
-http://143.244.60.30/Aspire/index.m3u8
-#EXTINF:-1 group-title="国际",Bounce
-http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 group-title="国际",Buzzr
-http://fl3.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 group-title="国际",CMT
-http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 group-title="国际",Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="国际",COMET
-http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title="国际",COZI TV
-http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 group-title="国际",ION Plus
-https://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 group-title="国际",ION
-http://143.244.60.30/ION_TV/index.m3u8
-#EXTINF:-1 group-title="国际",Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 group-title="国际",Lifetime
-http://143.244.60.30/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="国际",Sony Movie
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 group-title="国际",VH1
-http://fl3.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title="国际",GoUSA TV
-https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Showtime
-http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 group-title="国际",Bravo
-http://fl3.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 group-title="国际",BET
-http://fl3.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 group-title="国际",TV One
-http://fl3.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="国际",CMTV
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
-#EXTINF:-1 group-title="国际",Nat Geo Wild
-http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="国际",BBC America
-http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="国际",Disney Junior
-http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="国际",Nick Jr.
-http://fl3.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 group-title="国际",Disney Channel
-http://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 group-title="国际",DISCOVERY LIFE
-http://143.244.60.30/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 group-title="国际",DISNEY XD
-http://143.244.60.30/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="国际",HBO
-http://143.244.60.30/HBO/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Family
-http://143.244.60.30/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Zone
-http://143.244.60.30/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Stream
-http://143.244.60.30/HBO_2/index.m3u8
-#EXTINF:-1 group-title="国际",National Geographic
-http://143.244.60.30/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN 2
-http://143.244.60.30/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="国际",OuterMax
-http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="国际",FXM
-http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="国际",Outdoor Channel
-http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Starz
-http://fl3.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 group-title="国际",FXX
-http://fl3.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 group-title="国际",SYFY
-http://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title="国际",Smithsonian
-http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",Oxygen East
-http://fl3.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="国际",ACCN
-http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",Tastemade
-https://tastemade-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",World Poker Tour
-https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:-1 group-title="国际",MSG
-http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="国际",Wild TV
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 group-title="国际",Animal Planet
-http://143.244.60.30/Animal_Planet/index.m3u8
-#EXTINF:-1 group-title="国际",DIY
-http://143.244.60.30/DIY/index.m3u8
-#EXTINF:-1 group-title="国际",Fuse
-http://fl3.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 group-title="国际",LMN
-http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",Mytime
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="国际",GRIT TV
-http://143.244.60.30/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title="国际",Hallmark
-http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",FoxBusiness
-http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 group-title="国际",Cooking
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",MGM+Marquee
-https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 group-title="国际",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="国际",Destination America
-http://143.244.60.30/Destination_America/index.m3u8
-#EXTINF:-1 group-title="国际",Discovery Science
-http://143.244.60.30/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="国际",HGTV
-http://143.244.60.30/HGTV/index.m3u8
-#EXTINF:-1 group-title="国际",INSP TV
-http://143.244.60.30/INSP/index.m3u8
-#EXTINF:-1 group-title="国际",MTV
-http://143.244.60.30/MTV/index.m3u8
-#EXTINF:-1 group-title="国际",MTV Live
-http://143.244.60.30/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="国际",NickToons
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="国际",OUTSIDE TV
-http://143.244.60.30/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 group-title="国际",Oxygen
-http://143.244.60.30/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="国际",Paramount Network
-http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",PopTV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
-#EXTINF:-1 group-title="国际",Starz Comedy
-http://143.244.60.30/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 group-title="国际",Starz Edge
-http://143.244.60.30/STARZ_EDGE/index.m3u8
-#EXTINF:-1 group-title="国际",Starz Encore Action
-http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 group-title="国际",Vice
-http://143.244.60.30/VICELAND/index.m3u8
-#EXTINF:-1 group-title="国际",WGN
-http://143.244.60.30/WGN/index.m3u8
-#EXTINF:-1 group-title="国际",NHL Network
-http://143.244.60.30/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",MLB Network
-http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",Sportsman Channel
-http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN U
-http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="国际",SportsNet New York
-http://fl3.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 group-title="国际",BEIN Sports
-http://143.244.60.30/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="国际",CBS Sports
-http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",NBA TV
-http://fl5.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="国际",Tennis Channel
-http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",ACC Network
-http://143.244.60.30/ACC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",Crave 2
-http://fl3.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="国际",Crave 3
-http://fortv.cc:8080/q8KuDU/354945/57322
-#EXTINF:-1 group-title="国际",Crave 4
-http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 group-title="国际",Kids TV
-https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Sky Sports F1
-http://fortv.cc:8080/q8KuDU/354945/53704
+#EXTINF:-1 tvg-id="1818" tvg-name="US Fox News" group-title="国际",Fox News
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1818
+#EXTINF:-1 tvg-id="161450" tvg-name="US NewsNation" group-title="国际",NewsNation
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/161450
+#EXTINF:-1 tvg-id="46754" tvg-name="US CBSN New York (D)" group-title="国际",CBSN  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46754
+#EXTINF:-1 tvg-id="78578" tvg-name="Infowars" group-title="国际",Infowars
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/78578
+#EXTINF:-1 tvg-id="121004" tvg-name="AU ABC News Sydney (D)" group-title="国际",ABC News Sydney 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121004
+#EXTINF:-1 tvg-id="53695" tvg-name="UK-Discovery Science" group-title="国际",Discovery Science
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
+#EXTINF:-1 tvg-id="11664" tvg-name="US Nat Geo Wild East (A)" tvg-logo="https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png" group-title="国际",Nat Geo Wild East
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
+#EXTINF:-1 tvg-id="46722" tvg-name="US National Geographic " group-title="国际",National Geographic
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
+#EXTINF:-1 tvg-id="53719" tvg-name="UK-Cartoon Network" group-title="国际",Cartoon Network
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53719
+#EXTINF:-1 tvg-id="18925" tvg-name="US AMC" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="国际",AMC
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/18925
+#EXTINF:-1 tvg-id="13702" tvg-name="US BET (East)" tvg-logo="https://www.pinclipart.com/picdir/middle/396-3966034_bet-her-logo-png-clipart.png" group-title="国际",BET
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13702
+#EXTINF:-1 tvg-id="21259" tvg-name="US CBS News " group-title="国际",CBS
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21259
+#EXTINF:-1 tvg-id="9815" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="国际",CNBC
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
+#EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="国际",History
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
+#EXTINF:-1 tvg-id="35248" tvg-name="UK Sky Cinema Scifi & Horror FHD" group-title="国际",Sky Cinema Scifi & Horror 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
+#EXTINF:-1 tvg-id="35252" tvg-name="UK MOVIES: SKY CRIME THRILLER" group-title="国际",Sky Crime Thriller
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35252
+#EXTINF:-1 tvg-id="20863" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="国际",Lifetime Movies
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20863
+#EXTINF:-1 tvg-id="13380" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="国际",Cinemax  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13380
+#EXTINF:-1 tvg-id="57377" tvg-name="CA: Animal Planet" group-title="国际",Animal Planet
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57377
+#EXTINF:-1 tvg-id="35241" tvg-name="UK-Sky Sports News" group-title="国际",Sky Sports News
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/137719
+#EXTINF:-1 tvg-id="53706" tvg-name="UK Sky Sports Mix FHD (D)" group-title="国际",Sky Sports Mix  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53706
+#EXTINF:-1 tvg-id="35238" tvg-name="UK-Sky Sports Arena" group-title="国际",Sky Sports Arena
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35238
+#EXTINF:-1 tvg-id="35240" tvg-name="UK Sky Sports Golf FHD " group-title="国际",Sky Sports Golf  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35240
+#EXTINF:-1 tvg-id="35243" tvg-name="UK-Sky Sports Main Event" group-title="国际",Sky Sports Main Event
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35243
+#EXTINF:-1 tvg-id="45940" tvg-name="UK Sky Sports Cricket FHD (D)" group-title="国际",Sky Sports Cricket 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/45940
+#EXTINF:-1 tvg-id="35244" tvg-name="UK Sky Sports F1 FHD" group-title="国际",Sky Sports F1  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
+#EXTINF:-1 tvg-id="76842" tvg-name="UK: SKY SP RACING FHD" group-title="国际",Sky SP Racing  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/76842
+#EXTINF:-1 tvg-id="57273" tvg-name="CA HGTV " group-title="国际",HGTV
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57273
+#EXTINF:-1 tvg-id="46688" tvg-name="US TNT (West) " group-title="国际",TNT 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46688
+#EXTINF:-1 tvg-id="21360" tvg-name="MLB Network" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="国际",MLB Network
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21360
+#EXTINF:-1 tvg-id="159091" tvg-name="USA: NFL NETWORK (1)" group-title="国际",NFL Network
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/159091
+#EXTINF:-1 tvg-id="17776" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="国际",More Max
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17776
+#EXTINF:-1 tvg-id="22995" tvg-name="CA-NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="国际",NBA TV
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/22995
+#EXTINF:-1 tvg-id="20940" tvg-name="US NBC Sports California (A)" tvg-logo="https://www.clipartmax.com/png/middle/421-4210789_nbc-sports-california-shows-nbc-sports-pressbox-san-nbc-sports-philadelphia-logo.png" group-title="国际",NBC Sports California  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20940
+#EXTINF:-1 tvg-id="20941" tvg-name="US NBC Sports Chicago " tvg-logo="https://img2.pngio.com/chicago-sports-transparent-png-clipart-free-download-ywd-nbc-sports-png-800_625.png" group-title="国际",NBC Sports Chicago 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20941
+#EXTINF:-1 tvg-id="20926" tvg-name="US NBC Sports Network (FHD) " tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/nbc-sports-logo-vector.png" group-title="国际",NBC Sports Network 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20926
+#EXTINF:-1 tvg-id="20943" tvg-name="US NBC Sports Philly (F)" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2019/10/01/logo.png" group-title="国际",NBC Sports Philly    
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20943
+#EXTINF:-1 tvg-id="1846" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="国际",Fox Sports 1 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1846
+#EXTINF:-1 tvg-id="17772" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="国际",HBO Family  
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/17772
+#EXTINF:-1 tvg-id="13480" tvg-name="US MovieMAX (East) " tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="国际",MovieMAX
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/13480
+#EXTINF:-1 tvg-id="21012" tvg-name="US Cinemax Outermax (X)" group-title="国际",Cinemax Outermax
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/21012
+#EXTINF:-1 tvg-id="46694" tvg-name="Paramount Network " group-title="国际",Paramount Network
+http://fortv.cc:8080/q8KuDU/354945/46694
+#EXTINF:-1 tvg-id="46214" tvg-name="US Showtime East " group-title="国际",Showtime 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/46214
+#EXTINF:-1 tvg-id="7323" tvg-name="Food Network HD" group-title="国际",Food Network 
+http://fortv.cc:8080/q8KuDU/354945/7323
+#EXTINF:-1 tvg-id="57306" tvg-name="CA: CBC TORONTO" group-title="国际",CBC  
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57306
+#EXTINF:-1 tvg-id="57357" tvg-name="CA CP24 News HD (D)" group-title="国际",CP24 News 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57357
+#EXTINF:-1 tvg-id="57254" tvg-name="CA CTV Drama Channel (R)" group-title="国际",CTV Drama 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57254
+#EXTINF:-1 tvg-id="57350" tvg-name="CA: CTV NEWS CHANNEL HD" group-title="国际",CTV NEWS
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57350
+#EXTINF:-1 tvg-id="57437" tvg-name="CA: HBO 1 " group-title="国际",HBO 1 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57437
+#EXTINF:-1 tvg-id="57438" tvg-name="CA HBO 2 (R)" group-title="国际",HBO 2 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57438
+#EXTINF:-1 tvg-id="57276" tvg-name="CA: PBS HD" group-title="国际",PBS 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57276
+#EXTINF:-1 tvg-id="57277" tvg-name="CA OWN " group-title="国际",OWN 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57277
+#EXTINF:-1 tvg-id="46706" tvg-name="CMT" group-title="国际",CMT
+http://fortv.cc:8080/q8KuDU/354945/46706
+#EXTINF:-1 tvg-id="66244" tvg-name="Comet" group-title="国际",Comet 
+http://fortv.cc:8080/q8KuDU/354945/66244
+#EXTINF:-1 tvg-id="20189" tvg-name="Decades" group-title="国际",Decades
+http://fortv.cc:8080/q8KuDU/354945/20189
+#EXTINF:-1 tvg-id="10260" tvg-name="FXM" group-title="国际",FXM
+http://fortv.cc:8080/q8KuDU/354945/10260
